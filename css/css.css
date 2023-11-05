@@ -1,0 +1,39 @@
+div {
+    background: #000000;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+
+}
+div a {
+    color: white;
+    text-decoration: none;
+}
+.ee {
+    background: none;
+    width: 25px;
+}
+.rr {
+    width: 100px;
+    padding: 16px;
+    background: green;
+    margin: 15px;
+    color: aliceblue;
+
+    
+
+}
+p {
+    padding: 15px;
+    color: black;
+    
+}
+.ww {
+    background: rgb(217,238,225);
+}
+.ss {
+    width: 200px;
+    padding: 15px;
+    background: green;
+    color: aliceblue;
+}

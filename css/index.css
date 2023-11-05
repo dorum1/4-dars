@@ -1,0 +1,40 @@
+h2 {
+    background: black;
+    color: white;
+    padding: 40px;
+    text-align: center;
+    border: 25px;
+}
+
+h2 a {
+    color: white;
+    text-decoration: none;
+}
+button{
+    background-color: rgb(4,170,109);
+    width: 100PX ;
+    padding: 15PX;
+    color: white;
+}
+div {
+    background: rgb(217,238,225);
+}
+#al {
+    width: 300px;
+}
+#free {
+    width: 300px;
+    background: black;
+    color: white;
+}
+p {
+margin: 35px;
+;
+}
+.text {
+    background: none;
+    padding: 10px;
+}
+.ebout {
+    width: 200px;
+}
